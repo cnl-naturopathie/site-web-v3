@@ -1,0 +1,58 @@
+/*
+ Theme Name:   Twenty Fourteen Child
+ Description:  Twenty Fourteen Child Theme
+ Author:       Nico
+ Template:     twentyfourteen
+*/
+
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+
+@import url("../twentyfourteen/style.css");
+
+/*
+http://cnl-naturopathie.ch
+naturopathie-lausanne.ch
+
+#fceedd
+#a81a66
+#41ccc2
+
+*/
+
+body
+{
+	font-size: 18px;
+}
+
+#page
+{
+
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.site-title
+{
+	font-size: 16pt;
+	text-transform: uppercase;
+	letter-spacing: 0.1em;
+}
+
+.site-description
+{
+	font-size: 17px;
+	line-height: 1.5;
+	text-align: center;
+	margin-top: 20px;
+	letter-spacing: 0.05em;
+
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+h1.entry-title
+{
+	text-align: center;
+}
